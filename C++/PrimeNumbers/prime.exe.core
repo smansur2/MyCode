@@ -1,0 +1,20 @@
+[main] prime 1000 (0) exception: trapped!
+[main] prime 1000 (0) exception: code 0xC00000FD at 0x40D583
+[main] prime 1000 (0) exception: ax 0x74BE6B0 bx 0xA94BA6A1 cx 0x472E60 dx 0xA94BA6A0
+[main] prime 1000 (0) exception: si 0x94BA6B0 di 0x94BA6B0 bp 0x246FEDC sp 0x246FE58
+[main] prime 1000 (0) exception: exception is: STATUS_STACK_OVERFLOW
+[main] prime 1000 (1) stack: Stack trace:
+[main] prime 1000 (0) stack: frame 0: sp = 0x246F4C0, pc = 0x6100A2C3
+[main] prime 1000 (0) stack: frame 1: sp = 0x246F4FC, pc = 0x77D36212
+[main] prime 1000 (0) stack: frame 2: sp = 0x246F520, pc = 0x77D361E4
+[main] prime 1000 (0) stack: frame 3: sp = 0x246F980, pc = 0x77D24166
+[main] prime 1000 (0) stack: frame 4: sp = 0x246FEDC, pc = 0x4012B6
+[main] prime 1000 (0) stack: frame 5: sp = 0x246FF04, pc = 0x61004402
+[main] prime 1000 (0) stack: frame 6: sp = 0x246FF48, pc = 0x61004420
+[main] prime 1000 (0) stack: frame 7: sp = 0x246FF54, pc = 0x41338E
+[main] prime 1000 (0) stack: frame 8: sp = 0x246FF64, pc = 0x40103A
+[main] prime 1000 (0) stack: frame 9: sp = 0x246FF80, pc = 0x77808744
+[main] prime 1000 (0) stack: frame 10: sp = 0x246FF94, pc = 0x77D1582D
+[main] prime 1000 (0) stack: frame 11: sp = 0x246FFDC, pc = 0x77D157FD
+[main] prime 1000 (0) stack: frame 12: sp = 0x246FFEC, pc = 0x0
+[main] prime 1000 (0) stack: End of stack trace
