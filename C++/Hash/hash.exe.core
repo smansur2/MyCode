@@ -1,0 +1,22 @@
+[main] hash 1000 (0) exception: trapped!
+[main] hash 1000 (1) exception: code 0xC0000005 at 0x41D76E
+[main] hash 1000 (0) exception: ax 0x0 bx 0xC3E6E50 cx 0x0 dx 0xC3E6E50
+[main] hash 1000 (0) exception: si 0x247FD60 di 0x247FE28 bp 0x247FCF8 sp 0x247FCF4
+[main] hash 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] hash 1000 (0) stack: Stack trace:
+[main] hash 1000 (0) stack: frame 0: sp = 0x247F700, pc = 0x6100A2C3
+[main] hash 1000 (0) stack: frame 1: sp = 0x247F73C, pc = 0x774D9D62
+[main] hash 1000 (0) stack: frame 2: sp = 0x247F760, pc = 0x774D9D34
+[main] hash 1000 (0) stack: frame 3: sp = 0x247F82C, pc = 0x774C0BF6
+[main] hash 1000 (0) stack: frame 4: sp = 0x247FCF8, pc = 0x41BFE7
+[main] hash 1000 (0) stack: frame 5: sp = 0x247FD20, pc = 0x41D872
+[main] hash 1000 (0) stack: frame 6: sp = 0x247FE00, pc = 0x4010C0
+[main] hash 1000 (0) stack: frame 7: sp = 0x247FF08, pc = 0x61004402
+[main] hash 1000 (0) stack: frame 8: sp = 0x247FF48, pc = 0x61004420
+[main] hash 1000 (0) stack: frame 9: sp = 0x247FF54, pc = 0x419FEA
+[main] hash 1000 (0) stack: frame 10: sp = 0x247FF64, pc = 0x40103A
+[main] hash 1000 (0) stack: frame 11: sp = 0x247FF80, pc = 0x76CE8654
+[main] hash 1000 (0) stack: frame 12: sp = 0x247FF94, pc = 0x774B4A47
+[main] hash 1000 (0) stack: frame 13: sp = 0x247FFDC, pc = 0x774B4A17
+[main] hash 1000 (0) stack: frame 14: sp = 0x247FFEC, pc = 0x0
+[main] hash 1000 (0) stack: End of stack trace
